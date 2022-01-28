@@ -4,7 +4,7 @@ My resume is built based on [resume](https://github.com/gaocegege/resume) and [A
 
 ## Chinese Version
 
-[PDF](https://haiker2011.github.io/resume-2019/resume-cn.pdf)
+[PDF](https://haiker2011.github.io/resume-2022/resume-cn.pdf)
 
 ## English Version
 
